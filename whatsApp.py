@@ -1,3 +1,3 @@
 import pywhatkit as kit
 
-kit.sendwhatmsg("+919346884409","Hai Sathvika",12,9)
+kit.sendwhatmsg("PH-Number","MESSAGE",12,9)#12:9 is the time to send message Automatically for given phone nymber
